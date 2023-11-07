@@ -1,0 +1,1 @@
+﻿A simple Web API with CRUD operations and in-memory cache data, built by following Microsoft Learn resources.
